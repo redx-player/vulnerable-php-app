@@ -14,4 +14,5 @@ function db() {
         die('DB connection failed');
     }
     return $conn;
+    //Hello
 }
